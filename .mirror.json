@@ -1,5 +1,11 @@
 {
- "assets": {},
+ "assets": {
+  "WoodFloor067B": "952c20aeeaf7bfee4e182f6a1d97f3cba2927a60",
+  "WoodFloor068": "2d8c4e5b334a4dfd89b42e3468c1ed9788a8b5f8",
+  "WoodFloor069": "a82b6a180850ca4ee095303754f186d82910a8e9",
+  "WoodFloor070": "a94bb061d05a1a3e176ff9c846670fb45fd8bc9f",
+  "WoodFloor071": "1f4091944cf783fb86519f6ce6678a3781267dc1"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
